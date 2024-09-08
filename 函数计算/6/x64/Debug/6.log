@@ -1,0 +1,6 @@
+﻿  6_1.cpp
+D:\1学习\大三上\VC程序设计\MYcode\VC_202100172014_6\6\6_1.cpp(54,47): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  6_2.cpp
+  main.cpp
+  正在生成代码...
+  6.vcxproj -> D:\1学习\大三上\VC程序设计\MYcode\VC_202100172014_6\x64\Debug\6.exe
